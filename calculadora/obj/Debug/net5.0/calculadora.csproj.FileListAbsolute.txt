@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache

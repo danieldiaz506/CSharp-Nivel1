@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\bin\Debug\net5.0\TPFinal_DIazOrdonez.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\bin\Debug\net5.0\TPFinal_DIazOrdonez.deps.json
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\bin\Debug\net5.0\TPFinal_DIazOrdonez.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\bin\Debug\net5.0\TPFinal_DIazOrdonez.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\bin\Debug\net5.0\TPFinal_DIazOrdonez.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\bin\Debug\net5.0\TPFinal_DIazOrdonez.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\TPFinal_DIazOrdonez.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\TPFinal_DIazOrdonez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\TPFinal_DIazOrdonez.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\TPFinal_DIazOrdonez.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\TPFinal_DIazOrdonez.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\TPFinal_DIazOrdonez.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\refint\TPFinal_DIazOrdonez.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\TPFinal_DIazOrdonez.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\TPFinal_DIazOrdonez.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 1\TPFinal_DiazOrdonez\obj\Debug\net5.0\ref\TPFinal_DIazOrdonez.dll
